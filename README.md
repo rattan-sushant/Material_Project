@@ -1,3 +1,3 @@
 # New Project
 
-this was my step towards computational materials science.
+this was my first step towards computational materials science.
